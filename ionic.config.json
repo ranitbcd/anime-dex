@@ -1,0 +1,8 @@
+{
+  "name": "Anime Dex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4542a831"
+}
